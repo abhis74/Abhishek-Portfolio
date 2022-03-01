@@ -1,0 +1,46 @@
+.certification{
+    margin-top: 126px;
+}
+.certiItem{
+    /* display: flex; */
+    flex-direction: column;
+    /* margin: 20px; */
+    margin: 35px 224px;
+    font-family: 'Roboto Slab', serif;
+}
+.certiItem span{
+    margin-bottom: 10px;
+    font-family: 'Shippori Antique B1', sans-serif;
+
+}
+.certiItem button{
+    border-radius: 4px;
+    width: 10vw;
+    margin: 0;
+    padding: 1px;
+}
+.Items1{
+    display: flex;
+     }
+ 
+ .Item2{
+     flex-direction: column;
+ }
+ .Item3{
+     
+     flex-direction: column;
+ }
+ @media (max-width:1200px){
+    .certiItem {
+        margin: 35px 27px;
+    
+    }
+    .Items1 {
+     flex-direction: column;
+     }
+     .certiItem button {
+        width: 32vw;
+        margin: 12px;
+        padding: 5px;
+    }
+ }
