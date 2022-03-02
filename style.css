@@ -10,7 +10,7 @@ body{
          background-size: cover;
          background-position: center;
          background-repeat: no-repeat;
-         background-image: url("./2.jpg");
+         background-image: url("./2.jpeg");
       }
 
 
@@ -266,7 +266,7 @@ h2{
 
 @media (max-width:1200px) {
             .devInfo {
-                margin-top: 26vh;
+                margin-top: 13vh;
                 font-family: 'Shippori Antique B1', sans-serif;
                 display: flex;
                 justify-content: center;
