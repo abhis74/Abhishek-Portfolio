@@ -263,6 +263,15 @@ h2{
 .accounts svg:hover{
     fill:rgb(66, 202, 66) ;
 }
+@media (max-width:400px){
+    .accounts {
+        
+            bottom: 6vh;
+            left: 2vw;
+        
+    }
+}
+
 
 @media (max-width:1200px) {
             .devInfo {
