@@ -273,7 +273,7 @@ h2{
                 flex-direction: column;
             }
             .accounts {
-                bottom: 17vh;
+                bottom: 21vh;
                 left: 2vw;
             }
             .accounts svg{
@@ -373,6 +373,11 @@ h2{
         }
         .skillItem{
             padding: 10px 119px;
+        }
+        .contactform {
+            padding: 0 25px;
+            font-family: 'Roboto Slab', serif;
+            padding-top: 11px;
         }
        .contactform h1{
            font-size: 35px;
